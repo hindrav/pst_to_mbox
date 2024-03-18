@@ -1,0 +1,61 @@
+BEGIN:VCARD
+FN:(null)
+N:;;;;
+EMAIL:SebastianWright@dayrep.com
+VERSION:3.0
+END:VCARD
+
+BEGIN:VCARD
+FN:(null)
+N:;;;;
+EMAIL:WichertKroos@teleworm.us
+ORG:Grade A Investment
+VERSION:3.0
+END:VCARD
+
+BEGIN:VCARD
+FN:(null)
+N:;;;;
+EMAIL:ChristoffervandeMeeberg@teleworm.us
+TEL;TYPE=phone,pref:046-630-4614046-630-4614
+ORG:Krauses Sofa Factory
+VERSION:3.0
+END:VCARD
+
+BEGIN:VCARD
+FN:Tolle\, Margaret J.
+N:Tolle;Margaret;J.;;
+EMAIL:MargaretJTolle@dayrep.com
+ADR;TYPE=work:;;;;;;
+LABEL;TYPE=work:4 Darwinia Loop EIGHTY MILE BEACH WA 6725
+TEL;TYPE=work,voice:(08)9080-1183
+TEL;TYPE=cell,voice:(925)599-3355(925)599-3355
+TITLE:Recording engineer
+ORG:Adaptaz
+VERSION:3.0
+END:VCARD
+
+BEGIN:VCARD
+FN:Wilcox\, Matthew R.
+N:Wilcox;Matthew;R.;;
+ADR;TYPE=work:;;;;;;
+LABEL;TYPE=work:Horner Strasse 12 4421 SAASS
+TEL;TYPE=work,voice:0650 675 73 300650 675 73 30
+TEL;TYPE=home,voice:(661)387-5382(661)387-5382
+TITLE:Psychiatric aide
+ORG:Briazz
+VERSION:3.0
+END:VCARD
+
+BEGIN:VCARD
+FN:Buell\, Bertha A.
+N:Buell;Bertha;A.;;
+EMAIL:BerthaABuell@armyspy.com
+ADR;TYPE=work:;;;;;;
+LABEL;TYPE=work:Im Astenfeld 59 8580 EDELSCHROTT
+TEL;TYPE=phone,pref:06605045265
+TITLE:Social work assistant
+ORG:Awthentikz
+VERSION:3.0
+END:VCARD
+
